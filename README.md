@@ -2,5 +2,5 @@
 ## Print
 ![Print PC](./img/print-pc.png)
 
-### Agradecimentos Especiais
-[Eriton](https://github.com/both-eritons)
+## Agradecimentos Especiais
+- [@Eriton](https://github.com/both-eritons)
